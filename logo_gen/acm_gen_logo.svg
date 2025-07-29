@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 789.24 789.24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 9.99px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-family: Ashemore-NorBla, Ashemore;
+        font-size: 129.85px;
+      }
+
+      .cls-3, .cls-4, .cls-2, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #231f20;
+        stroke-width: .87px;
+      }
+
+      .cls-6 {
+        fill: #0082ad;
+      }
+
+      .cls-5 {
+        font-family: MyriadConceptRoman-Black, 'Myriad Variable Concept';
+        font-size: 198.08px;
+        font-variation-settings: 'wght' 900, 'wdth' 100;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <circle class="cls-6" cx="394.62" cy="394.62" r="394.62"/>
+  <circle class="cls-1" cx="394.62" cy="394.62" r="363.22"/>
+  <path class="cls-2" d="M335.51,98.52L39.41,394.62l296.1,296.1h0c0-24.1-9.57-47.21-26.61-64.24l-.65-.65-231.2-231.2c62.06-62.06,179.34-179.34,231.86-231.86,17.04-17.04,26.61-40.14,26.61-64.24h0Z"/>
+  <path class="cls-2" d="M452.41,98.52l296.1,296.1-296.1,296.1h0c0-24.1,9.57-47.21,26.61-64.24l.65-.65,231.2-231.2c-62.06-62.06-179.34-179.34-231.86-231.86-17.04-17.04-26.61-40.14-26.61-64.24h0Z"/>
+  <path class="cls-4" d="M93.05,394.62c25.13-2.29,50.26-3.91,75.39-5.55,50.18.13,174.19.02,226.18.06,49.64,0,178.1,0,226.18,0,25.13,1.67,50.26,3.29,75.39,5.5-25.13,2.21-50.26,3.83-75.39,5.5-47.49,0-176.95,0-226.18,0-52.57.02-175.2-.06-226.18.05-25.13-1.64-50.26-3.26-75.39-5.55h0Z"/>
+  <text class="cls-5" transform="translate(211.47 359.74)"><tspan x="0" y="0">acm</tspan></text>
+  <text class="cls-3" transform="translate(210.92 517.94)"><tspan x="0" y="0">SAHE</tspan></text>
+</svg>
